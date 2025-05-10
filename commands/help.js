@@ -74,7 +74,7 @@ module.exports = {
 
     // Construct the help message
 
-    let helpMessage = "====【 Cid Kagenou Bot Commands 】====\n\n";
+    let helpMessage = "====【 KEIJO_bot command 】====\n\n";
 
     helpMessage += commandList.length > 0 ? commandList.join("\n") + "\n\n" : "No available commands.\n\n";
 
@@ -86,15 +86,15 @@ module.exports = {
 
     }
 
-    helpMessage += `> Thank you for using our Cid Kagenou bot, this bot has multiple system and multiple command structures.\n`;
+    helpMessage += `> Thank you for using our KEIJO_BOT, this bot has multiple system and multiple command structures.\n`;
 
-    helpMessage += `> This is the original version 2.0 of Cid bot, will release soon.\n`;
+    helpMessage += `> This is the original version 2.0 of KEIJO_BOT, will release soon.\n`;
 
     helpMessage += `> For further assistance, contact the developer,\n`;
 
-    helpMessage += `Gmail: korisawaumuzaki@gmail.com\n`;
+    helpMessage += `Name: 🥇KEIJO ENRILE\n`;
 
-    helpMessage += `Facebook: https://www.facebook.com/aljur.pogoy.2024`;
+    helpMessage += `Facebook Account: https://www.facebook.com/c8py.link.kan4n4m4nb0b0`;
 
   
 
