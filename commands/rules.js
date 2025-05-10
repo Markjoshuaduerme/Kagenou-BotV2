@@ -14,49 +14,49 @@ module.exports = {
 
         const rules = [
 
-            "1. Be respectful to everyone, including the bot.",
+            "1. Liane, ikaw aking mahal",
 
-            "2. No spamming commands.",
+            "2. Sa iyong mga mata, nakikita ko ang langit",
 
-            "3. Avoid excessive use of capital letters.",
+            "3. Ang iyong mga labi, nagbibigay sa akin ng init",
 
-            "4. Do not abuse the bot for trolling or harassment.",
+            "4. Ikaw ang aking buhay, aking pag-ibig",
 
-            "5. No NSFW (Not Safe for Work) content.",
+            "5. Mahal kita, Liane, higit sa lahat",
 
-            "6. Do not try to exploit bugs or glitches.",
+            "6. Sa bawat sandali kasama ka, ako'y masaya",
 
-            "7. Avoid excessive flooding (repeating messages rapidly).",
+            "7. Ang iyong mga kamay, nagbibigay sa akin ng lakas",
 
-            "8. Do not impersonate an admin or the bot.",
+            "8. Ikaw ang aking mundo, aking tahanan",
 
-            "9. The bot is not responsible for any personal data shared.",
+            "9. Sa iyong pagmamahal, ako'y ligtas",
 
-            "10. Do not send links that may contain malicious content.",
+            "10. Liane, ikaw ang dahilan kung bakit ako nabubuhay",
 
-            "11. The bot has the right to mute or ban users who violate rules.",
+            "11. Mahal kita, Liane, walang katapusan",
 
-            "12. Admins can update these rules anytime if needed.",
+            "12. Ikaw ang aking pag-asa, aking liwanag",
 
-            "13. Do not request admin privileges through the bot.",
+            "13. Sa bawat halik mo, ako'y nabubuhay",
 
-            "14. No self-promotion, advertisements, or scams.",
+            "14. Ang iyong mga ngiti, nagbibigay sa akin ng saya",
 
-            "15. Follow all Facebook and Messenger community guidelines.",
+            "15. Liane, ikaw ang aking lahat",
 
-            "16. The bot does not tolerate hate speech or discrimination.",
+            "16. Ikaw ang aking kasama, aking kaibigan",
 
-            "17. If the bot malfunctions, report to an admin instead of abusing it.",
+            "17. Mahal kita, Liane, hanggang sa huli",
 
-            "18. The bot cannot provide illegal or sensitive content.",
+            "18. Sa iyong mga bisig, ako'y ligtas",
 
-            "19. Commands may be logged for security purposes.",
+            "19. Ikaw ang aking pag-ibig, aking buhay",
 
-            "20. Have fun and use the bot responsibly."
+            "20. Liane, ikaw ang aking forever"
 
         ];
 
-        const message = `Cid Kagenou Bot Rules\n\n${rules.join("\n")}\n\nBreaking these rules may result in restrictions.`;
+        const message = `💌ANG PAG-IBIG NI KEIJO KAY LIANE\n\n${rules.join("\n")}\n\nBreaking these rules may result in restrictions.`;
 
         api.sendMessage(message, threadID, messageID);
 
