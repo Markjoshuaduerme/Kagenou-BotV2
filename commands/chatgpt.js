@@ -9,7 +9,7 @@ module.exports = {
         if (args.length === 0 && !messageReply && attachments.length === 0) {
             return sendMessage(api, {
                 threadID,
-                message: '⚠️ Please provide a question or reply with an image.\n\nExample:\n/chatgpt What is AI?\n(Or reply to an image with /chatgpt)'
+                message: '⚠️KEIJO_BOT MESSAGE:  Please provide a question or reply with an image.\n\nExample:\n/chatgpt What is AI?\n(Or reply to an image with /chatgpt)'
             });
         }
 
