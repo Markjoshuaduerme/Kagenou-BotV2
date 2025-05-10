@@ -50,13 +50,13 @@ module.exports = {
 
             const message = 
 
-                "System Prefix Information\n\n" +
+                "📝KEIJO_BOT SYSTEM PREFIX INFORMATION\n\n" +
 
                 " [🌐] Main System Prefix: " + mainPrefix + "\n" +
 
                 "[👾] Tokito System Prefix: " + tokitoPrefix + "\n" +
 
-                "[🗡️] Cid-Kagenou System Prefix: " + cidPrefix + "\n" +
+                "[🗡️] KEIJO_BOT System Prefix: " + cidPrefix + "\n" +
 
                 "[🎭] VIP System Prefix: " + vipPrefix + "\n\n" +
 
