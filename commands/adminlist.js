@@ -3,7 +3,7 @@ module.exports = {
   category: 'Info',
   execute: async (api, event, args, commands, prefix, admins, appState, sendMessage) => {
     const { threadID } = event;
-    let adminListMessage = "Admins 👑\n";
+    let adminListMessage = "👑🥇KEIJO_BOT: Admins\n";
 
     for (const adminID of admins) {
       try {
