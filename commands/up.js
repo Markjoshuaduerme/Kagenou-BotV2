@@ -13,7 +13,7 @@ module.exports = {
     const uptimeHours = Math.floor(uptimeMinutes / 60);
     const uptimeDays = Math.floor(uptimeHours / 24);
 
-    const uptimeMessage = `Ito yung buhay ni KEIJO ENRILE matapos nyang makilala si Liane: ${uptimeDays} days, ${uptimeHours % 24} hours, ${uptimeMinutes % 60} minutes, ${Math.floor(uptimeSeconds % 60)} seconds.`;
+    const uptimeMessage = `📝KEIJO_BOT UPTIME: ${uptimeDays} days, ${uptimeHours % 24} hours, ${uptimeMinutes % 60} minutes, ${Math.floor(uptimeSeconds % 60)} seconds.`;
 
     sendMessage(api, { threadID, message: uptimeMessage });
   },
